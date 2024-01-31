@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hfuioagfouebosduvbga
-=======
-Fixed
->>>>>>> f333f02... problem
+Fixed merge conflict
